@@ -5,8 +5,6 @@ The project simulates basic banking operations such as creating an account, depo
 
 This project is helpful for:
 
-Java beginners
-
 Practicing Core Java concepts
 
 Understanding real-world console-based applications
